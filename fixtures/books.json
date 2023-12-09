@@ -1,0 +1,57 @@
+[
+    {
+      "model": "BooksApp.Book",
+      "id": 1,
+      "fields": {
+        "title" : "The Space Between Worlds" , 
+        "subtitle" : "ultimate space scifi" ,
+        "author" : "Micaiah Johnson",
+        "isbn" : "9780593156919",
+        "published" : "2012-09-03"
+      }
+    },
+    {
+        "model": "BooksApp.Book",
+        "id": 2,
+        "fields": {
+          "title" : "C++" , 
+          "subtitle" : "complete c++" ,
+          "author" : "stroupe",
+          "isbn" : "9780593126919",
+          "published" : "1999-04-02"
+        }
+      },
+      {
+        "model": "BooksApp.Book",
+        "id": 3,
+        "fields": {
+          "title" : "java complete reference" , 
+          "subtitle" : "java" ,
+          "author" : "Joshua Bloch ",
+          "isbn" : "0080593126919",
+          "published" : "2001-04-02"
+        }
+      },
+      {
+        "model": "BooksApp.Book",
+        "id": 4,
+        "fields": {
+          "title" : "python complete reference" , 
+          "subtitle" : "python 3.2" ,
+          "author" : "blake griffin",
+          "isbn" : "9080593126919",
+          "published" : "2003-04-02"
+        }
+      },
+      {
+        "model": "BooksApp.Book",
+        "id": 5,
+        "fields": {
+          "title" : "Steve Jobs" , 
+          "subtitle" : "steve jobs : a biography" ,
+          "author" : "issac walter",
+          "isbn" : "7080593126919",
+          "published" : "2011-07-08"
+        }
+      }
+  ]
