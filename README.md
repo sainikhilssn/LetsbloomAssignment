@@ -32,6 +32,8 @@ python manage.py loaddata fixtures/books.json --app BooksApp.Books
 ```
 python manage.py runserver
 ```
+Default a sqlite database is provided by django .
+
 server should be running at http://127.0.0.1:8000/
 
 # API endpoints 
